@@ -138,7 +138,7 @@ How to cite
 
 If you used the code/program for your paper, please cite
 
-Barabas, Masullo et al, Automated quantification of protein periodic nanostructures in fluorescence nanoscopy images: abundance and regularity of neuronal spectrin membrane-associated skeleton, Scientific Reports 7, 16029 (2017).
+Barabas, Masullo et al, "Automated quantification of protein periodic nanostructures in fluorescence nanoscopy images: abundance and regularity of neuronal spectrin membrane-associated skeleton", Scientific Reports 7, 16029 (2017).
 
 https://doi.org/10.1038/s41598-017-16280-x
 
