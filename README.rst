@@ -132,6 +132,15 @@ ringFinder
    .. image:: screenshots/histogram.png
 
    The information in the textbox characterizes the set of analyzed images. In particular, **ringFrac** is the fraction of subimages exhibiting the specified structure. Also, for every single analyzed image, a binary one indicating the presence of the structure and an image in which the Pearson coefficient is encoded in each pixel's intensity are provided. They can be superimposed with the original data using ImageJ software.
+   
+How to cite
+~~~~~~~
+
+If you used the code/program for your paper, please cite
+
+Barabas, Masullo et al, Automated quantification of protein periodic nanostructures in fluorescence nanoscopy images: abundance and regularity of neuronal spectrin membrane-associated skeleton, Scientific Reports 7, 16029 (2017).
+
+https://doi.org/10.1038/s41598-017-16280-x
 
 Contact
 ~~~~~~~
